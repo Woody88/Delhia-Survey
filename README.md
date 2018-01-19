@@ -1,2 +1,2 @@
 # Delhia-Survey
-Little Survey App build in Reflex and Servant
+Little survey web app built in Reflex and Servant
