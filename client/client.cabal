@@ -21,6 +21,7 @@ executable client
   -- other-extensions:
   build-depends:       base
                      , common
+                     , reflex
                      , reflex-dom
                      , reflex-dom-core
                      , reflex-dom-contrib
@@ -29,6 +30,7 @@ executable client
                      , file-embed
                      , jsaddle
                      , jsaddle-dom
+                     , mtl
                      , network-uri
                      , filepath
                      , text
